@@ -11,7 +11,7 @@ My name is MohammadHosein Gholamrezaei. I am a Master's student at the Departmen
 **HyperDbg: Reinventing Hardware-Assisted Debugging**  
 Mohammad Sina Karvandi, **MohammadHossein Gholamrezaei**, Saleh Khalaj Monfared, Soroush Meghdadizanjani, Behrooz Abbassi, Ali Amini, Reza Mortazavi, Saeid Gorgin, Dara Rahmati, Michael Schwarz
 In *ACM Conference on Computer and Communications Security (CCS)*, Nov 2022   
-[code](https://github.com/HyperDbg) | [website](https://hyperdbg.org/)
+\[[code](https://github.com/HyperDbg)\] | \[[website](https://hyperdbg.org/)\]
 
 **FIR Filter Architectures Using Accurate Unary Stochastic Computing**  
 Kamyar Givaki, Ahmad Khonsari, **Mohammad Hossein Gholamrezaei**, Dara Rahmati and Saeid Gorgin
@@ -24,17 +24,17 @@ In *IEEE International System-on-Chip Conference (SOCC)*, Sep 2022
 **An Efficient FPGA Implementation of k-Nearest Neighbors via Online Arithmetic**  
 S. Gorgin, **M. H. Gholamrezaei**, D. Javaheri, J. A. Lee  
 In *IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM)*, May 2022  
-[link](https://ieeexplore.ieee.org/document/9786165)
+\[[link](https://ieeexplore.ieee.org/document/9786165)\]
 
 **High Performance Deterministic Stochastic Computing Using Residue Number System**  
 Kamyar Givaki, Reza Hojabr, **M.H. Gholamrezaei**, Ahmad Khonsari, Saeid Gorgin, Dara Rahmati, M. Hassan Najafi
 In *IEEE Design and Test*, Jan 2021  
-[link](https://ieeexplore.ieee.org/document/9324741/)
+\[[link](https://ieeexplore.ieee.org/document/9324741/)\]
 
 **Using Residue Number Systems to Accelerate Deterministic Bit-stream Multiplication**  
  Kamyar Givaki, Reza Hojabr, M. Hassan Najafi, Ahmad Khonsari, **M. Hossein Gholamrezayi**,  Saeid Gorgin, Dara Rahmati
 In *International Conference on Application-specific Systems, Architectures and Processors (ASAP)*, July 2019  
-[link](https://ieeexplore.ieee.org/document/8825100)
+\[[link](https://ieeexplore.ieee.org/document/8825100)\]
 
 ---
 
