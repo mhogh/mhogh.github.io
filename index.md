@@ -70,5 +70,3 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 [Notes](https://pages.github.austin.utexas.edu/bh28324/notes/)
 
 ---
-
-<img style="width:350px;" src="/assets/img/wordcloud.svg"/>

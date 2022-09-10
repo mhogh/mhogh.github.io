@@ -36,4 +36,4 @@ github: [metadata]
 
 cdn:
   jsdelivr:
-    enabled: true
+    enabled: false
