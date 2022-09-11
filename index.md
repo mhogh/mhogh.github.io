@@ -40,13 +40,21 @@ In *International Conference on Application-specific Systems, Architectures and 
 
 ## Teaching Experiences
 
-Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.utexas.edu/~simon/378/)
+Fall 2020: **Real-Time and Embedded Systems**, [Dr. Seyed-Hosein Attarzadeh-Niaki](http://facultymembers.sbu.ac.ir/attarzadeh/)  
+Co-Teacher Assistant, Shahid Beheshti University  
 
----
+Spring 2020: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
 
-## Notable Projects
+Fall 2019: **Digital Design Course**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
 
-2020 ISPASS Student Travel Award  
-[Research Distinction](https://cns.utexas.edu/undergraduate-education/events/cns-distinctions/2020-distinction-winners#bodun-hucomputer-science) by the College of Natural Sciences
+Fall 2019:  **Real-Time and Embedded Systems**, [Dr. Seyed-Hosein Attarzadeh-Niaki](http://facultymembers.sbu.ac.ir/attarzadeh/)  
+Co-Teacher Assistant, Shahid Beheshti University 
 
----
+Spring 2019: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
+
+Fall 2018: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
+Teacher Assistant, Shahid Beheshti University
+
