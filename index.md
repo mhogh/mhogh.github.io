@@ -3,13 +3,26 @@ layout: default
 title: "MohammadHosein Gholamrezaei"
 ---
 
-My name is MohammadHosein Gholamrezaei. I am a Master's student at the Department of Computer Engineering, Chosun University, Gwangju, South Korea. My research interests include Computer Architecture, AI Hardware Accelerators, Embedded Systems, Design Automation, and Computer Engineering.
+I am MohammadHosein Gholamrezaei, currently pursuing a Ph.D. in Computer Architecture at the University of Virginia under supervision of [Prof. Kevin Skadron](https://www.cs.virginia.edu/~skadron/). I hold a Master's degree from the Department of Computer Engineering at Chosun University, Gwangju, South Korea. During my master's studies, I conducted research in Hardware Accelerators for Artificial Intelligence algorithms. My doctoral research at the University of Virginia is dedicated to Computer Architecture, with a specific focus on Hardware Accelerators and Processing In-Memory.
 
 
-## Publications 
+## Publications
+
+
+**Low Latency and High Throughput Pipelined Online Adder for Streaming Inner Product** 
+Tooba Arifeen, Saeid Gorgin, **MohammadHosein Gholamrezaei**, Abdus Sami Hassan, Milos̆ D Ercegovac, Jeong-A Lee
+In *Journal of Signal Processing Systems*, May 2023
+\[[link](https://link.springer.com/article/10.1007/s11265-023-01866-8)\]
+
+**A generalized residue number system design approach for ultra-low power arithmetic circuits based on deterministic bit-streams** 
+Kamyar Givaki, Ahmad Khonsari, **MohammadHossein Gholamrezaei**, Saeid Gorgin, M Hassan Najafi
+In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, March 2023
+\[[link](https://ieeexplore.ieee.org/document/10057065)\]
+
 **An Energy-Efficient K-means Clustering FPGA Accelerator via Most-Significant Digit First Arithmetic** 
 Saeid Gorgin, **Mohammadhosein Gholamrezaei**, Danial Javaheri and Jeong-A Lee
 In *International Conference on Field Programmable Technology (FPT)*, Dec 2022
+\[[link](https://ieeexplore.ieee.org/document/9974222)\]
 
 **HyperDbg: Reinventing Hardware-Assisted Debugging**   
 Mohammad Sina Karvandi, **MohammadHossein Gholamrezaei**, Saleh Khalaj Monfared, Soroush Meghdadizanjani, Behrooz Abbassi, Ali Amini, Reza Mortazavi, Saeid Gorgin, Dara Rahmati, Michael Schwarz
