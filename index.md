@@ -7,7 +7,11 @@ I am MohammadHosein Gholamrezaei, currently pursuing a Ph.D. in Computer Archite
 
 
 ## Publications
-
+**Architectural Modeling and Benchmarking for Digital DRAM PIM**  
+Farzana Ahmed Siddique, Deyuan Guo, Zhenxing Fan, **MohammadHosein Gholamrezaei**, Morteza Baradaran, Alif Ahmed, Hugo Abbot, Kyle Durrer, Kumaresh Nandagopal, Ethan Ermovick, Khyati Kiyawat, Beenish Gul, Abdullah Mughrabi, Ashish Venkat, Kevin Skadron  
+In *IEEE International Symposium on Workload Characterization (IISWC)*, Aug 2024  
+\[[paper link](https://www.cs.virginia.edu/~skadron/Papers/PIMbench_PIMeval_iiswc2024.pdf)\] 
+\[[code link](https://github.com/UVA-LavaLab/PIMeval-PIMbench/)\]
 
 **Low Latency and High Throughput Pipelined Online Adder for Streaming Inner Product** 
 Tooba Arifeen, Saeid Gorgin, **MohammadHosein Gholamrezaei**, Abdus Sami Hassan, Milos̆ D Ercegovac, Jeong-A Lee
@@ -56,6 +60,8 @@ In *International Conference on Application-specific Systems, Architectures and 
 ---
 
 ## Teaching Experiences
+Fall 2024, **Computer Systems and Organization 2**, \[[course website](https://www.cs.virginia.edu/~cr4bd/3130/F2024/)\]  
+Co-Teacher Assistant, University of Virginia
 
 Fall 2020: **Real-Time and Embedded Systems**, [Dr. Seyed-Hosein Attarzadeh-Niaki](http://facultymembers.sbu.ac.ir/attarzadeh/)  
 Co-Teacher Assistant, Shahid Beheshti University  
@@ -74,4 +80,6 @@ Teacher Assistant, Shahid Beheshti University
 
 Fall 2018: **Microprocessors and Assembly Language**, Dr. Dara Rahmati  
 Teacher Assistant, Shahid Beheshti University
+
+
 
