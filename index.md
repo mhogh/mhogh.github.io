@@ -13,6 +13,17 @@ In *IEEE International Symposium on Workload Characterization (IISWC)*, Aug 2024
 \[[paper link](https://www.cs.virginia.edu/~skadron/Papers/PIMbench_PIMeval_iiswc2024.pdf)\] 
 \[[code link](https://github.com/UVA-LavaLab/PIMeval-PIMbench/)\]
 
+**An Efficient Dot-Product Unit Based on Online Arithmetic for Variable Precision Applications**
+Saeid Gorgin, **Mohammad H. Golamrezaei**, Jeong–A Lee, Milos D Ercegovac
+In *Asilomar Conference on Signals, Systems, and Computers*, Oct 2023
+\[[link](https://ieeexplore.ieee.org/document/10476862)\]
+
+** MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization**
+Saeid Gorgin, Mohammadreza Najafi, **Mohammad H. Gholamrezaei**, Jeong-A Lee, Milos D Ercegovac
+In *Asilomar Conference on Signals, Systems, and Computers*, Oct 2023
+\[[link](https://ieeexplore.ieee.org/document/10477090)\]
+
+
 **Low Latency and High Throughput Pipelined Online Adder for Streaming Inner Product** 
 Tooba Arifeen, Saeid Gorgin, **MohammadHosein Gholamrezaei**, Abdus Sami Hassan, Milos̆ D Ercegovac, Jeong-A Lee
 In *Journal of Signal Processing Systems*, May 2023
