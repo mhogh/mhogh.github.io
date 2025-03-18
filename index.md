@@ -18,7 +18,7 @@ Saeid Gorgin, **Mohammad H. Golamrezaei**, Jeong–A Lee, Milos D Ercegovac
 In *Asilomar Conference on Signals, Systems, and Computers*, Oct 2023
 \[[link](https://ieeexplore.ieee.org/document/10476862)\]
 
-** MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization**
+**MSDF-SVM: Advantage of Most Significant Digit First Arithmetic for SVM Realization**
 Saeid Gorgin, Mohammadreza Najafi, **Mohammad H. Gholamrezaei**, Jeong-A Lee, Milos D Ercegovac
 In *Asilomar Conference on Signals, Systems, and Computers*, Oct 2023
 \[[link](https://ieeexplore.ieee.org/document/10477090)\]
