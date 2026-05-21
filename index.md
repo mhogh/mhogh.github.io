@@ -10,17 +10,18 @@ I am MohammadHosein Gholamrezaei, currently pursuing a Ph.D. in Computer Archite
 **Characterizing Digital DRAM PIM through Modeling and Benchmarking**  
 Farzana Ahmed Siddique, Deyuan Guo, Hugo Abbot, Kyle Durrer, **MohammadHosein Gholamrezaei**, Morteza Baradaran, et al.  
 In *ACM Transactions on Architecture and Code Optimization*, 2026  
-\[[scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xo1lY1MAAAAJ&citation_for_view=Xo1lY1MAAAAJ:dfsIfKJdRG4C)\]
+\[[paper link](https://dl.acm.org/doi/10.1145/3815581)\]
 
 **PIMsynth: A Unified Compiler Framework for Bit-Serial Processing-In-Memory Architectures**  
 Deyuan Guo, **MohammadHosein Gholamrezaei**, Marius Hofmann, Ashish Venkat, Zhen Zhang, Kevin Skadron  
 In *IEEE Computer Architecture Letters*, 2025  
-\[[scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xo1lY1MAAAAJ&citation_for_view=Xo1lY1MAAAAJ:fPk4N6BV_jEC)\]
+\[[paper link](https://ieeexplore.ieee.org/document/11130365)\]
+\[[code link](https://github.com/UVA-LavaLab/PIMsynth/)\]
 
 **Optimization and Benchmarking of Monolithically Stackable Gain Cell Memory for Last-Level Cache**  
 Farhan Waqar, Junhyeok Kwak, Jeong-A Lee, Onur Phadke, Myungkyu Shon, **MohammadHosein Gholamrezaei**, Kevin Skadron, et al.  
 In *IEEE Transactions on Computers*, 2025  
-\[[scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xo1lY1MAAAAJ&citation_for_view=Xo1lY1MAAAAJ:u_35RYKgDlwC)\]
+\[[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11216132)\]
 
 **Architectural Modeling and Benchmarking for Digital DRAM PIM**  
 Farzana Ahmed Siddique, Deyuan Guo, Zhenxing Fan, **MohammadHosein Gholamrezaei**, Morteza Baradaran, Alif Ahmed, Hugo Abbot, Kyle Durrer, Kumaresh Nandagopal, Ethan Ermovick, Khyati Kiyawat, Beenish Gul, Abdullah Mughrabi, Ashish Venkat, Kevin Skadron  
